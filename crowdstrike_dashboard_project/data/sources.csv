@@ -1,0 +1,7 @@
+source,url,used_for
+"CrowdStrike PIR","https://www.crowdstrike.com/en-us/blog/falcon-content-update-preliminary-post-incident-report/","Release/revert times; undetected error; remediation commitments"
+"Microsoft blog","https://blogs.microsoft.com/blog/2024/07/20/helping-our-customers-through-the-crowdstrike-outage/","8.5 million devices; less than 1% of Windows machines"
+"Reuters on Delta lawsuit","https://www.reuters.com/legal/delta-sues-crowdstrike-over-software-update-that-prompted-mass-flight-2024-10-25/","Delta 1.3M customers, 7,000 flights, ~$500M"
+"AP airline disruption report","https://apnews.com/article/outage-airlines-flights-canceled-crowdstrike-microsoft-044954aada0fa4f95c0119233c6316a6","Delta, United, American day-one cancellation counts"
+"Reuters outage overview","https://www.reuters.com/technology/what-caused-global-cyber-outage-2024-07-19/","Affected airlines and cross-sector disruption"
+"CISA alert","https://www.cisa.gov/news-events/alerts/2024/07/19/widespread-it-outage-due-crowdstrike-update","Government alert on outage and remediation context"

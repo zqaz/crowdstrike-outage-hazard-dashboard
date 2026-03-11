@@ -1,0 +1,9 @@
+airline,region,cancelled_flights,period,customers_impacted,impact_usd,status,source_note
+Delta Air Lines,US,7000.0,5-day total after outage,1300000.0,500000000.0,Most severe publicly quantified impact,Delta public statements and litigation filings via Reuters.
+Delta Air Lines,US,1300.0,July 19 only,,,Day-one disruption,"AP reported about 1,300 cancellations on July 19."
+United / United Express,US,550.0,July 19 only,,,"Major disruption, faster recovery than Delta","AP reported 550+ cancellations, ~13% of schedule."
+American Airlines,US,450.0,July 19 only,,,"Major disruption, faster recovery than Delta","AP reported 450+ cancellations, ~8% of schedule."
+Allegiant Air,US,,July 19 only,,,Flights grounded / disruption reported,"Reuters named Allegiant among affected carriers, no reliable cancellation total in source set."
+Ryanair,Europe,,July 19 only,,,Disruption and delays reported,Reuters named Ryanair among affected carriers.
+Air India,India,,July 19 only,,,Disruption reported,Reuters named Air India among affected carriers.
+Indian carriers (multiple),India,,July 19 only,,,Several airlines disrupted,Reuters reported several Indian airlines were affected.

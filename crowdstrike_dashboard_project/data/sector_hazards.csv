@@ -1,0 +1,7 @@
+sector,hazard_type,examples,severity_score
+Aviation,Operational disruption,"Ground stops, cancellations, crew system issues, check-in disruption",5
+Healthcare,Clinical workflow disruption,"Appointment delays, system downtime, manual fallback processes",5
+Banking & Payments,Service continuity risk,"Transaction delays, branch/front-office system disruption",4
+Government & Emergency Services,Public-service continuity risk,"Administrative disruption, emergency workflow delays",4
+Retail & Hospitality,Point-of-sale / booking disruption,"Check-in, ordering, back-office system interruption",3
+Media & Broadcasting,Production / distribution disruption,Broadcast interruptions and newsroom system issues,3

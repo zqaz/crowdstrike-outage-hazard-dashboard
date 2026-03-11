@@ -1,0 +1,9 @@
+metric,value,category,notes
+Update release time (UTC),2024-07-19 04:09,timeline,Defective Rapid Response Content update released for Windows hosts.
+Update revert time (UTC),2024-07-19 05:27,timeline,CrowdStrike reverted the defective update.
+Incident window (minutes),78,timeline,Window between release and revert.
+Affected Windows devices,8500000,scale,Microsoft estimated 8.5 million Windows devices were affected.
+Share of Windows ecosystem,<1%,scale,Microsoft said the affected devices were less than 1% of all Windows machines.
+Delta customers disrupted,1300000,airline,Delta publicly said 1.3 million customers were disrupted.
+Delta flights cancelled over five days,7000,airline,"Delta publicly said about 7,000 flights were cancelled over five days."
+Delta claimed impact (USD),500000000,airline,Delta publicly said the outage cost roughly $500 million.
