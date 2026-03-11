@@ -1,0 +1,28 @@
+country,iso_alpha,severity_score,primary_sectors,estimated_devices_k,region,key_impact_note
+United States,USA,10,"Aviation, Healthcare, Banking, Government",5000,North America,Delta 7K flights cancelled; hospitals diverted patients; 911 centers and federal agencies affected
+United Kingdom,GBR,9,"Banking, Healthcare, Media, Aviation",800,Europe,NHS cancelled 10K+ appointments; NatWest/Lloyds/Halifax disruptions; Sky News went off-air
+Australia,AUS,8,"Banking, Aviation, Government",600,Asia-Pacific,Big 4 banks disrupted; Sydney/Melbourne airports affected; emergency services impacted
+Germany,DEU,7,"Aviation, Banking, Healthcare",400,Europe,Lufthansa and Berlin Airport disruptions; Deutsche Bank; hospital systems
+Canada,CAN,7,"Banking, Aviation, Retail",350,North America,Toronto Pearson disruptions; RBC/TD/Scotiabank affected; retail POS failures
+India,IND,7,"Aviation, Banking, Healthcare",450,Asia-Pacific,IndiGo/Air India/SpiceJet disruptions; HDFC/SBI banking; hospital systems on paper fallback
+France,FRA,6,"Aviation, Banking",300,Europe,Paris CDG airport disruptions; banking services affected
+Netherlands,NLD,6,"Aviation, Banking",200,Europe,KLM delays; Schiphol Airport; ING Bank disruptions
+Singapore,SGP,6,"Banking, Aviation",150,Asia-Pacific,Changi Airport affected; DBS Bank and others disrupted
+Japan,JPN,6,"Banking, Aviation, Government",300,Asia-Pacific,Airlines; major banks; government systems disrupted
+Spain,ESP,5,"Aviation, Healthcare, Banking",250,Europe,Iberia/Vueling delays; hospitals; banking disruptions
+Hong Kong,HKG,5,"Aviation, Banking",150,Asia-Pacific,Cathay Pacific operations disrupted; major financial institutions
+UAE,ARE,5,"Aviation, Banking",150,Middle East,Emirates and flydubai disruptions; banking services affected
+Switzerland,CHE,5,"Banking, Aviation",180,Europe,Swiss International Air; UBS and other banks disrupted
+Italy,ITA,4,"Aviation, Banking",200,Europe,ITA Airways; banking services disrupted
+Brazil,BRA,4,"Aviation, Banking",200,South America,Airlines and major banks disrupted
+New Zealand,NZL,4,"Banking, Aviation",100,Asia-Pacific,ANZ NZ and major banks; airlines; government services
+South Africa,ZAF,4,"Banking, Aviation",100,Africa,FNB/Standard Bank disruptions; SAA and other airlines
+Turkey,TUR,4,"Aviation, Banking",150,Middle East,Turkish Airlines disruptions; banks affected
+Mexico,MEX,4,"Aviation, Banking",150,North America,Airlines and banking services disrupted
+Sweden,SWE,4,"Banking, Aviation",120,Europe,Major banks; SAS airline disruptions
+Belgium,BEL,3,"Aviation, Banking",100,Europe,Brussels Airlines delays; banks affected
+Poland,POL,3,"Aviation, Banking",100,Europe,LOT Polish Airlines; banking disruptions
+Portugal,PRT,3,"Aviation, Banking",80,Europe,TAP Air Portugal; banks affected
+Israel,ISR,3,"Government, Banking, Aviation",80,Middle East,Government systems; airlines; banks disrupted
+Czech Republic,CZE,3,"Aviation, Banking",70,Europe,Czech Airlines; banking disruptions
+Norway,NOR,3,"Banking, Aviation",80,Europe,Airlines; major banks disrupted

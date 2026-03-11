@@ -1,0 +1,31 @@
+sector,phase,hours_to_milestone,phase_description
+Aviation,Detection,0.5,Flight dispatch and check-in systems crashed; airlines detected BSOD across workstations
+Aviation,Immediate Response,2,Emergency IT teams deployed; manual check-in and paper-based boarding initiated
+Aviation,Partial Restoration,24,Core reservation and dispatch systems restored for most carriers
+Aviation,Major Recovery,72,Most carriers restored operations; Delta still managing multi-day backlog
+Aviation,Full Recovery,120,Full pre-incident operational capacity restored (Delta approx 5 days)
+Healthcare,Detection,0.5,Clinical staff reported BSOD on workstations; EHR systems inaccessible
+Healthcare,Immediate Response,1.5,Paper-based fallback activated; elective procedures cancelled as precaution
+Healthcare,Partial Restoration,12,Critical systems (ICU / emergency) restored at most facilities
+Healthcare,Major Recovery,36,Most clinical workflows back online; imaging and scheduling recovering
+Healthcare,Full Recovery,72,Full system restoration including PACS imaging and patient records
+Banking & Payments,Detection,0.3,Customers reported failed transactions; bank staff detected BSOD at teller stations
+Banking & Payments,Immediate Response,1,Backup systems and manual overrides activated; ATM networks rerouted
+Banking & Payments,Partial Restoration,8,Core transaction processing restored; online banking partially accessible
+Banking & Payments,Major Recovery,16,Most services operational; end-of-day batch processing resumed
+Banking & Payments,Full Recovery,24,Full pre-incident capacity restored for most institutions
+Government & Emergency,Detection,0.5,911 dispatch centers and government IT offices reported widespread outages
+Government & Emergency,Immediate Response,2,Manual and backup protocols activated; priority given to emergency services
+Government & Emergency,Partial Restoration,12,Emergency dispatch and critical government systems restored
+Government & Emergency,Major Recovery,36,Most government services back online; non-critical still recovering
+Government & Emergency,Full Recovery,72,Full operational capacity across all government services
+Retail & Hospitality,Detection,0.3,POS terminal failures reported; hotel booking and reservation systems down
+Retail & Hospitality,Immediate Response,1,Stores switched to manual and cash-only operations; temporary booking holds
+Retail & Hospitality,Partial Restoration,6,Most POS systems restored; online booking recovering
+Retail & Hospitality,Major Recovery,12,Normal operations resumed for most retailers and hospitality chains
+Retail & Hospitality,Full Recovery,24,Full pre-incident operational capacity restored
+Media & Broadcasting,Detection,0.2,Live broadcast disruptions detected (Sky News went off-air globally)
+Media & Broadcasting,Immediate Response,0.5,Backup broadcasting and streaming systems engaged
+Media & Broadcasting,Partial Restoration,4,Most media operations restored on backup infrastructure
+Media & Broadcasting,Major Recovery,8,Normal broadcasting and content production restored
+Media & Broadcasting,Full Recovery,12,Full pre-incident capacity restored across studios and digital platforms

@@ -1,0 +1,18 @@
+organization,sector,estimated_loss_usd_m,recovery_days,devices_affected_k,region,impact_type,source_confidence
+Delta Air Lines,Aviation,500,5,30,North America,Direct operational loss (stated),High
+CrowdStrike (market cap),Technology,9000,30,0,North America,Stock market cap decline July 19-26,High
+United Airlines,Aviation,75,2,15,North America,Estimated operational loss,Medium
+American Airlines,Aviation,50,2,12,North America,Estimated operational loss,Medium
+Global Healthcare Sector,Healthcare,1940,3,500,Global,Aggregate industry estimate (Interos),Low
+Global Banking Sector,Banking & Payments,1000,1,300,Global,Estimated transaction loss and recovery costs,Low
+Global Retail Sector,Retail & Hospitality,500,1,200,Global,POS and booking disruption aggregate,Low
+Microsoft (indirect),Technology,200,7,0,North America,Support infrastructure and reputational costs,Low
+Government and Emergency Services,Government & Emergency,300,3,100,Global,Emergency response and IT recovery costs,Low
+NHS England,Healthcare,15,3,80,Europe,Cancelled procedures plus overtime and recovery,Medium
+Ryanair,Aviation,8,1,5,Europe,Estimated delay and rebooking costs,Low
+Air India,Aviation,5,1,8,Asia-Pacific,Estimated disruption costs,Low
+IndiGo,Aviation,5,1,10,Asia-Pacific,Estimated disruption costs,Low
+Cathay Pacific,Aviation,12,1,8,Asia-Pacific,Estimated operational disruption costs,Low
+KLM,Aviation,10,1,6,Europe,Estimated disruption and delay costs,Low
+Lufthansa Group,Aviation,20,1,15,Europe,Estimated disruption costs across group airlines,Low
+Global Insurance Losses,Insurance,2700,90,0,Global,Parametrix industry insured loss estimate,Medium
